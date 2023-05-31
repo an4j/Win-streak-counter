@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://images2.alphacoders.com/130/1306359.png");
+    background-image: url("gekko.png");
     background-size: cover;
     font-family:Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
@@ -11,9 +11,9 @@ body {
 
 .container{
     background: rgba(199,244,88,0.6);
-    max-width: 80%;
-    margin: auto;
-    height: 55%;
+    max-width: 50%;
+    max-height: 60%;
+    margin:  30 auto;
     border: 3px solid #7c37e7;
     border-radius: 10px;
 }
